@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/startup_info?useSSL=false
+    username: root
+    password: Rahul@123
+
+
+
+  # JPA Settings
+  jpa:
+    open-in-view=false:
+    hibernate:
+      ddl-auto: create
