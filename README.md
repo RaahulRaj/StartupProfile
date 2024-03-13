@@ -9,6 +9,8 @@ management and Postman for testing the API endpoints, ensuring a robust and reli
   <img width="960" alt="image" src="https://github.com/RaahulRaj/StartupProfile/assets/102645220/99be96c7-36d1-4dd7-83f3-9c223ed607ad"></br>
    <figcaption>Implemented Exception Handling</figcaption>
     <img width="960" alt="image" src="https://github.com/RaahulRaj/StartupProfile/assets/102645220/6d316110-75f9-40c8-be07-d09731ce7bad"> </br>
+  <figcaption>Database</figcaption>
+  <img width="960" alt="image" src="https://github.com/RaahulRaj/StartupProfile/assets/102645220/19c4a24d-68e9-4798-a3de-d668ad1cd88d"></br>
 </figure>
  
 
