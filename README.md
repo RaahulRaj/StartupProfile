@@ -4,6 +4,9 @@ StartupProfile is a Java Spring Boot-based REST API designed to manage and analy
 CRUD operations on startup data, ensuring efficient management and retrieval of startup information. This project leverages MySQL for database 
 management and Postman for testing the API endpoints, ensuring a robust and reliable service.
 
+<img width="960" alt="image" src="https://github.com/RaahulRaj/StartupProfile/assets/102645220/99be96c7-36d1-4dd7-83f3-9c223ed607ad">
+
+
 ## Features
 
 - **CRUD Operations**: Create, Read, Update, and Delete functionalities for managing startup profiles.
