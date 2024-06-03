@@ -33,7 +33,9 @@ Before you begin, ensure you have installed the following:
 - JDK 17 
 - MySQL Server
 - Maven
-- Postman (for API testing)
+- Postman (for API testing)\
+- JPA
+- Hibernate (ORM)
 
 ### Installation
 
